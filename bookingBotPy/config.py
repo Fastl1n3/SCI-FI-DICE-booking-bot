@@ -1,0 +1,8 @@
+BOT_TOKEN = '6374504231:AAHDogvzsrNktTr0InoooZoMqUzWoI74KEc'
+URL_SERVER = 'https://scifidice.ru/backend'
+ORG_INFO = 'Здесь информация об организации.'
+DISC_ROOM1 = 'Мега крутая комната на 10 человек.'
+DISC_ROOM2 = 'Крутая комната очень на 8 чел.'
+DISC_ROOM3 = 'Смол комната на 5 чел.'
+DISC_ROOM4 = 'Ауе комната на 8 чел.'
+DISC_ROOM5 = 'Класс комната на 5 чел.'
